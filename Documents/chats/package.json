@@ -1,0 +1,28 @@
+{
+  "name": "chats",
+  "version": "1.0.0",
+  "description": "Nodejs Chatting Server(will mergre into main website)",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing shit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thumbsdb/chatting-nodejs.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Chatting",
+    "Server"
+  ],
+  "author": "Thumbsdb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thumbsdb/chatting-nodejs/issues"
+  },
+  "homepage": "https://github.com/Thumbsdb/chatting-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.2"
+  }
+}
